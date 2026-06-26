@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://github.com/snehapradeepraj">
@@ -6,7 +7,7 @@
 
 <br/><br/>
 
-<img src="./assets/banner.png" alt="Sneha Banner" width="100%" />
+<img src="./banner.png" alt="Sneha Banner" width="100%" />
 
 <br/><br/>
 
@@ -42,23 +43,45 @@ I'm currently focused on strengthening my full-stack foundations while gradually
 
 ## ✿ stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,django,fastapi,react,nodejs,postgres,mongodb&theme=dark" />
+Python • Java • C • JavaScript
 
-</div>
+### Frontend
+
+React • HTML • CSS
+
+### Backend
+
+Node.js • Django • FastAPI
+
+### Database
+
+PostgreSQL • MongoDB
+
+### Tools
+
+Git • GitHub • VS Code
 
 <br/>
 
-## ✿ currently learning
+## ✿ currently building
 
-```text
-▸ Data Structures & Algorithms
-▸ Full-Stack Development
-▸ FastAPI & Backend Architecture
-▸ AI / Machine Learning Fundamentals
-▸ System Design Basics
-```
+▸ Full-stack applications
+
+▸ Learning AI/ML fundamentals
+
+▸ Practicing DSA
+
+▸ Exploring FastAPI + React
+
+<br/>
+
+## ✿ github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehapradeepraj&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
@@ -78,14 +101,29 @@ I'm currently focused on strengthening my full-stack foundations while gradually
 
 <br/>
 
-<div align="center">
+## ✿ leetcode stats
 
-### ✿ current goal
-
-Building projects that combine software engineering, design, and AI while growing toward internship opportunities.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sneha_pr_147?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
 
 <br/>
+
+## ✿ let's connect
+
+✦ Open to internship opportunities
+
+✦ Open to collaborations and open-source contributions
+
+✦ Always learning something new
+
+✦ Reach me through LinkedIn
+
+<br/>
+
+<div align="center">
 
 <sub>thanks for visiting ✿</sub>
 
 </div>
+
