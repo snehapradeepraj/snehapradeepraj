@@ -6,8 +6,17 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sneha-pradeep-580997215"><img src="https://img.shields.io/badge/LinkedIn-D9A3C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/Sneha_pr_147/"><img src="https://img.shields.io/badge/LeetCode-8E7CC3?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<img src="./assets/banner.png" alt="Sneha Banner" width="100%" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sneha-pradeep-580997215">
+  <img src="https://img.shields.io/badge/LinkedIn-D9A3C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/Sneha_pr_147/">
+  <img src="https://img.shields.io/badge/LeetCode-8E7CC3?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
 </div>
 
@@ -15,7 +24,7 @@
 
 ## ✿ about me
 
-```
+```javascript
 const sneha = {
   role: "CSE sophomore, 19",
   focus: ["full-stack development", "AI/ML (learning track)"],
@@ -27,17 +36,41 @@ const sneha = {
 
 I'm a second-year CSE student who learns best by building things that are slightly too ambitious for my current skill level — and then figuring out how to ship them anyway.
 
+I'm currently focused on strengthening my full-stack foundations while gradually exploring AI and machine learning. I enjoy turning ideas into projects, learning through experimentation, and documenting what I discover along the way.
+
 <br/>
 
 ## ✿ stack
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,html,css,django,fastapi,react,nodejs,postgres,mongodb&theme=dark" />
 
+</div>
+
 <br/>
+
+## ✿ currently learning
+
+```text
+▸ Data Structures & Algorithms
+▸ Full-Stack Development
+▸ FastAPI & Backend Architecture
+▸ AI / Machine Learning Fundamentals
+▸ System Design Basics
+```
+
+<br/>
+
+## ✿ github activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehapradeepraj&theme=tokyo-night&hide_border=true&line=D9A3C7&point=B7A6E8&color=8a8a8a" />
 </p>
+
+<br/>
+
+## ✿ streak stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehapradeepraj&theme=tokyonight&hide_border=true&ring=D9A3C7&fire=D9A3C7&currStreakLabel=B7A6E8" />
@@ -46,6 +79,12 @@ I'm a second-year CSE student who learns best by building things that are slight
 <br/>
 
 <div align="center">
+
+### ✿ current goal
+
+Building projects that combine software engineering, design, and AI while growing toward internship opportunities.
+
+<br/>
 
 <sub>thanks for visiting ✿</sub>
 
