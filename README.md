@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="banner.png" alt="Sneha Banner" width="100%">
+<img src="banner1.png" alt="Sneha Banner" width="100%">
 
 <br><br>
 
