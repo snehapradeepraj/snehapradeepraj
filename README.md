@@ -42,27 +42,38 @@ I'm currently focused on strengthening my full-stack foundations while gradually
 
 ## ✿ stack
 
-### Languages
+✦ Languages
 
-Python • Java • C • JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
+</p>
 
-### Frontend
+✦ Frontend
 
-React • HTML • CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+</p>
 
-### Backend
+✦ Backend
 
-Node.js • Django • FastAPI
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi&theme=dark" />
+</p>
 
-### Database
+✦ Database
 
-PostgreSQL • MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+</p>
 
-### Tools
+✦ Tools
 
-Git • GitHub • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
 
-<br>
+<br/>
+
 
 ## ✿ currently building
 
